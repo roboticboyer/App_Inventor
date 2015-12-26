@@ -2,4 +2,4 @@
 
 - GPS Tracker
 
-- Arduino Bluetooth
+- Arduino Bluetooth 2
